@@ -3,7 +3,7 @@
 @Time : 2022/2/13 下午 1:34
 @Author : SunGuoqi
 @Website : https://sunguoqi.com
-@Github: https://github.com/sun0225SUN
+@Github: https://github.com/bugKai001
 """
 
 import numpy as np

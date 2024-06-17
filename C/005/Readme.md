@@ -1,2 +1,2 @@
 ## 考虑到仓库大小，此程序单独存放，请前往
-# https://github.com/sun0225SUN/C-Meteor-Shower
+# https://github.com/bugKai001/C-Meteor-Shower

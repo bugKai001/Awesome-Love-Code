@@ -32,4 +32,4 @@ python index.py
                               v
 ```
 
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/python/002.jpg"/>
+<img src="https://cdn.jsdelivr.net/gh/bugKai001/Awesome-Love-Code/assets/img/python/002.jpg"/>
